@@ -1,0 +1,10 @@
+1. 导入数据
+2. 清理数据
+3.将数据分成训练/测试集
+4.创建一个模型
+5. 训练模型
+6. 作出预测
+7. 评估和改进
+
+numpy pandas matploblib scikit-learn
+anaconda
