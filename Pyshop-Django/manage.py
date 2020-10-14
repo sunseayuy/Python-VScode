@@ -13,3 +13,6 @@ if __name__ == '__main__':
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
+
+#python manage.py runserver 运行网站
+#python manage.py createsuperuser 创建超级用户
